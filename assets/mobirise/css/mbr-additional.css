@@ -1,0 +1,167 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#header1-g .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+  color: #c0a375;
+}
+#header1-g .mbr-section-lead {
+  font-family: 'Raleway', sans-serif;
+}
+#header1-g .btn {
+  font-family: 'Raleway', sans-serif;
+}
+#social-buttons3-y .mbr-section-title,
+#social-buttons3-y .btn-social {
+  color: #fff;
+}
+#social-buttons3-y .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+  color: #c0a375;
+}
+#footer1-x P {
+  color: #c0a375;
+}
+#ext_menu-f .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-f .navbar-caption {
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#ext_menu-f .navbar-toggler {
+  color: #c0a375;
+}
+#ext_menu-f .close-icon::before,
+#ext_menu-f .close-icon::after {
+  background-color: #c0a375;
+}
+#ext_menu-f .link,
+#ext_menu-f .dropdown-item {
+  color: #c0a375;
+  font-family: 'Raleway', sans-serif;
+}
+#ext_menu-f .link {
+  font-size: 1.3rem;
+}
+#ext_menu-f .dropdown-item,
+#ext_menu-f .nav-dropdown-sm .link {
+  font-size: 1.408rem;
+}
+#ext_menu-f .link:hover,
+#ext_menu-f .dropdown-item:hover,
+#ext_menu-f .link:focus,
+#ext_menu-f .dropdown-item:focus {
+  color: #c0a375;
+}
+#ext_menu-f .link[aria-expanded="true"],
+#ext_menu-f .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-f .nav-dropdown-sm .link:focus,
+#ext_menu-f .nav-dropdown-sm .link:hover,
+#ext_menu-f .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-f .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-f .navbar,
+#ext_menu-f .nav-dropdown-sm,
+#ext_menu-f .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-f .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-f .bg-color.transparent .link {
+  color: #c0a375;
+  transition: none;
+}
+#ext_menu-f .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-f .bg-color.transparent.opened .link:hover,
+#ext_menu-f .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#ext_menu-f .link[aria-expanded="true"],
+#ext_menu-f .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#ext_menu-f A {
+  font-family: 'Oswald', sans-serif;
+}
+#instagram-feed-block-d .inst__title {
+  color: #c0a375;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+}
+#social-buttons3-n .mbr-section-title,
+#social-buttons3-n .btn-social {
+  color: #fff;
+}
+#social-buttons3-n .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box5-q H3 {
+  color: #c0a375;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box5-q P {
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+}
+#msg-box5-q .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box5-r H3 {
+  font-family: 'Oswald', sans-serif;
+  color: #c0a375;
+}
+#msg-box5-r P {
+  color: #ffffff;
+}
+#msg-box5-s H3 {
+  font-family: 'Oswald', sans-serif;
+  color: #c0a375;
+}
+#msg-box5-s P {
+  color: #ffffff;
+}
+#msg-box5-t H3 {
+  color: #c0a375;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box5-t P {
+  color: #ffffff;
+}
+#form1-b .form-control-label {
+  color: #ffffff;
+}
+#form1-b .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+  color: #c0a375;
+}
+#form1-b SMALL {
+  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+}
